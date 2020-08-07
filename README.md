@@ -10,7 +10,7 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The webapp has been hosted on vercel - below the link of the application
-https://fullthrottleassign.vercel.app/
+https://fullthrottleassign.mamba1992.vercel.app/
 
 The following improvements can be done in the webapp
 
