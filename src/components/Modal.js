@@ -12,7 +12,6 @@ const UserModal = ({ showModal, setModal, activeUser }) => {
     setModal(false);
   };
   const handleChange = (date) => {
-    console.log(date);
     setDate(date);
   };
   return (

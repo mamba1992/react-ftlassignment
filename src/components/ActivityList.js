@@ -24,7 +24,7 @@ const ActivityList = ({ activeUser, selectedDate }) => {
       times: formatTime,
     };
   });
-  console.log(groupByTimeIntervals, "groupByTimeIntervals");
+
   const dateSelected = moment(selectedDate).format("LL");
   const filterDay = filter(groupByTimeIntervals, function (date) {
     return date["day"] === dateSelected;

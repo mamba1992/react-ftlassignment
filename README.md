@@ -11,3 +11,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The webapp has been hosted on vercel - below the link of the application
 https://fullthrottleassign.vercel.app/
+
+The following improvements can be done in the webapp
+
+- A better folder Structure
+- components can be broken down further into reusable components like the user list and activity list
+- the formatter helpers can be put into a helpers folder
